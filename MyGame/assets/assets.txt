@@ -1,0 +1,6 @@
+.gitkeep
+background.jpg
+ball.jpg
+dog.png
+dog2.png
+redball.png
